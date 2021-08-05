@@ -13,4 +13,4 @@ It is highly recommended to read the cited reference. Please note that some of t
 MATLAB
 
 # MATLAB Central
-
+[![View Probability density functions distance and similarity on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/97142-probability-density-functions-distance-and-similarity)
