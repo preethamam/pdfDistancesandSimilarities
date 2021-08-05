@@ -7,7 +7,7 @@ It is highly recommended to read the cited reference. Please note that some of t
 ## Example: Signals and PDFs.
 | Figures of signals 1 and 2 and its PDFs |
 | ------------- |
-| ![pdfs](https://user-images.githubusercontent.com/28588878/128307949-71a69134-73b6-43e6-9212-eea916b086f1.png) |
+| ![pdfs](https://user-images.githubusercontent.com/28588878/128424889-c615f0ae-5153-461d-8e73-904f21f9b7d4.png) |
 
 # Requirements
 MATLAB
